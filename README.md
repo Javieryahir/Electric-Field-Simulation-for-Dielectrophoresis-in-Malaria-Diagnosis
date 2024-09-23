@@ -1,1 +1,2 @@
 # Electric-Field-Simulation-for-Dielectrophoresis-in-Malaria-Diagnosis
+ This project involves creating a computational simulation of a non-uniform electric field, similar to those used in dielectrophoresis for malaria diagnosis. The simulation will display two parallel plate electrodes with opposite charges, where the user can modify the size of one of the plates. The electric field generated between the plates will be visualized through arrows or field lines, representing the strength and direction of the field.
